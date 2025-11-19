@@ -4,9 +4,6 @@ a fast read for learning how to get started - not an example on how application 
 designed. Please note this example uses and requires Java 8 to work.. 
 
 
-   ds
-
-
 ![Addressbook Screenshot](addressbook_screenshot.png "Addressbook Screenshot")
 
 
